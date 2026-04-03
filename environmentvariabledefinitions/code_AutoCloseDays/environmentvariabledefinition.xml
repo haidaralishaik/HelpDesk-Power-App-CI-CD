@@ -1,0 +1,11 @@
+<environmentvariabledefinition schemaname="code_AutoCloseDays">
+  <defaultvalue>7</defaultvalue>
+  <displayname default="Auto Close Days">
+    <label description="Auto Close Days" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000001</type>
+</environmentvariabledefinition>
